@@ -20,7 +20,7 @@ function Home() {
          * Seamless Application Process -
           Apply to jobs with just a few clicks. Keep track of your applications and get updates in real-time, ensuring you never miss an opportunity.</p>
 
-        <p>* Don’t wait – your dream job is just a click away. Sign up now and let [Your Website Name] be your guide to a successful career.</p>
+        <p>* Don’t wait – your dream job is just a click away. Sign up now and let Find Jobs be your guide to a successful career.</p>
           
     </div>
   )
